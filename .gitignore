@@ -1,0 +1,68 @@
+# Globals and OS junk files
+######################
+*.DS_Store
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+[Tt]humbs.db
+ehthumbs.db
+Thumbs.db
+.idea/
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Production, logs and databases
+###################### 
+.gitconfig
+.lastlogin
+.contactemail
+.bashrc
+.bash_profile
+.bash_logout
+.bash_history
+.dns
+.cpanel/
+.htpasswds/
+.ssh/
+etc/
+mail/
+perl5/
+public_ftp/
+ssl/
+tmp/
+cgi-bin/
+www/
+www
+cpbackup-exclude.conf
+error_log
+access-logs
+*.log
+*.sql
+*.sqlite
+
+# local dev files #
+######################
+node_modules/*
+*.sass-cache*
