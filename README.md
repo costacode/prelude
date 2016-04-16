@@ -1,4 +1,4 @@
-# prelude
+# Prelude
 My starting point for front-end development
 
 
