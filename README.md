@@ -1,5 +1,5 @@
 # Prelude
-My starting point for front-end development
+My starting point for front-end development sing Gulp
 
 
 * * *
